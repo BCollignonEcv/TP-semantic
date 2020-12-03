@@ -1,6 +1,6 @@
 # Exercice Accessibilité, schema.org  &amp;  SEO
 
-![image](img/top.jpg "image logo")
+![image](img/draw_kung_fu_panda_Oogway.jpg "image logo")
 
 Faîtes l'exercice qui suit.
 Vous devez trouver comme appliquer à cette page
@@ -16,4 +16,4 @@ Pour mieux travailler le schema.org il est conseillé d'abord de faire une analy
 * Vérification de l'intégration des médias
 
 L'exercice sera noté exclusivement sur gitHub.
-[Voir la page](https://giusmili.github.io/activite_blog/ "blog")
+[Voir la page](https://bcollignonecv.github.io/TP-semantic/ "blog")
