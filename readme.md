@@ -1,4 +1,4 @@
-# Exercice Accessibilité, schema.org  &amp;  SEO
+# Baptiste COLLIGNON - Exercice Accessibilité, schema.org  &amp;  SEO
 
 ![image](img/draw_kung_fu_panda_Oogway.jpg "image logo")
 
