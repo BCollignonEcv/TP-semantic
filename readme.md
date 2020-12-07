@@ -5,5 +5,5 @@
 Cette page de Blog utilise ces deux schemas  : **_Blog et Comment_** .
 Vous trouverez un **_Open graph_** pour faciliter convergence des internautes sur les réseaux sociaux.
 
-L'exercice sera noté exclusivement sur gitHub.
+Vous trouverez le lien de l'exercice ci-après :
 [Voir la page](https://bcollignonecv.github.io/TP-semantic/ "blog")
