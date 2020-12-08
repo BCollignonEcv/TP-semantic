@@ -7,3 +7,11 @@ Vous trouverez un **_Open graph_** pour faciliter convergence des internautes su
 
 Vous trouverez le lien de l'exercice ci-après :
 [Voir la page](https://bcollignonecv.github.io/TP-semantic/ "blog")
+
+### Problème rencontré : 
+
+** - Robot.txt introuvable : **
+    le fichier robot.txt est sensé être à la racine du site, or dans mon cas il est dans le repository git. 
+
+** - Sitemap.xml introuvable : **
+    le fichier sitemap.xml est sensé être à la racine du site, or dans mon cas il est dans le repository git. 
