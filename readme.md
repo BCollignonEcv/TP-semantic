@@ -12,8 +12,8 @@ Vous trouverez le lien de l'exercice ci-après :
 
 ### Problème rencontré : 
 
-__- Robot.txt introuvable :__
-    le fichier robot.txt est sensé être à la racine du site, or dans mon cas il est dans le repository git. 
+__- Robot.txt introuvable :__  
+    Le fichier robot.txt est sensé être à la racine du site, or dans mon cas il est dans le repository git. 
 
-__- Sitemap.xml introuvable :__
-    le fichier sitemap.xml est sensé être à la racine du site, or dans mon cas il est dans le repository git. 
+__- Sitemap.xml introuvable :__  
+    Le fichier sitemap.xml est sensé être à la racine du site, or dans mon cas il est dans le repository git. 
